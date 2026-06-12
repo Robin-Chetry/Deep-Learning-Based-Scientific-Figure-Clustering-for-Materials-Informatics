@@ -198,4 +198,4 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Author
 
-Robin Chetry — IIT Roorkee Internship Project (Materials Informatics)
+Robin Rawat — IIT Roorkee Internship Project (Materials Informatics)
