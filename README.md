@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Scientific-Figure-Clustering-for-Materials-Informatics
+Designed and implemented an end-to-end scientific figure understanding pipeline using SigLIP embeddings, dimensionality reduction, clustering, and similarity retrieval. Evaluated clustering quality using ARI/NMI metrics and developed image retrieval workflows for materials-science figures from a dataset of over 50,000 images.
