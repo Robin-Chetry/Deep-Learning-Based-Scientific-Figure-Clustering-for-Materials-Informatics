@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+opencv-python
+tqdm
+imagehash
+
+# Deep learning
+torch
+torchvision
+timm
+transformers
+
+# ML & clustering
+scikit-learn
+xgboost
+umap-learn
+hdbscan
+optuna
+
+# Visualization & notebooks
+plotly
+nbformat
+jupyter
+ipywidgets

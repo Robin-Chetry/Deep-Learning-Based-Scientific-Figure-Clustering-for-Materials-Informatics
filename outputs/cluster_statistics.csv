@@ -1,0 +1,12 @@
+Metric,Value
+Total images,51301
+Total clusters (excluding noise),12
+Number of noise points,6986
+Noise percentage,13.62%
+Largest cluster size,26397
+Smallest cluster size,373
+Mean cluster size,3692.92
+Median cluster size,737.5
+Silhouette Score,0.12434008717536926
+Davies-Bouldin Index,2.8465873073889836
+Calinski-Harabasz Index,1433.3200958523842
